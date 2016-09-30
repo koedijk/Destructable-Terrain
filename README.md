@@ -1,4 +1,4 @@
-# Unity3d-WormsDestructibleTerrain
-[See a video of the project](https://www.youtube.com/watch?v=GKJsSi6irko)
+Destructable Terrain
 
-[Learn how to do a dectrutible terrain on Unity3D](http://blogaprendendojava.blogspot.com.br/2015/05/unity-terreno-destrutivel.html) (Portuguese)
+--Test Level with reload terrain
+--Game can be tested in the map GameStandalone.
